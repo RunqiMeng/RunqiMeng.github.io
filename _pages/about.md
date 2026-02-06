@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a PhD student in Computer Science at the Department of Biomedical Engineering, **ShanghaiTech University**, advised by **Prof. Dinggang Shen**. I received my B.Eng. degree in Electronic Information Science and Technology from the College of Physics and Electronics, **Central South University**, China, in 2021.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have been a visiting researcher at **Massachusetts General Hospital** and **Harvard Medical School**, supervised by **Prof. Quanzheng Li**. From September 2024 to August 2025, I worked as a research intern at **United Imaging Intelligence Co., Ltd.(UII)**.
+
+My research focuses on medical artificial intelligence, particularly **vision-language models**, **multi-modal learning**, and **foundation models** for medical image analysis. My current work focuses on **tumor segmentation**, **pan-cancer modeling**, and building **generalizable AI systems** that integrate imaging and clinical data for diagnosis and prognosis.
+
 
 
 # 🔥 News

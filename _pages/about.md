@@ -55,7 +55,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 **AAAI, 2024**
 
 [**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
-
+<div>
 
 <div>
 <div class="badge">MICCAI 2025</div>
@@ -67,6 +67,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 **MICCAI, 2025**
 
 [**[Paper]**](https://papers.miccai.org/miccai-2025/paper/0362_paper.pdf)
+<div>
 
 
 <div>
@@ -79,7 +80,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 **AAAI Conference on Artificial Intelligence (AAAI), 2024**
 
 [**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
-
+<div>
 
 <div>
 <div class="badge">AAAI 2024</div>
@@ -91,7 +92,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 **AAAI Conference on Artificial Intelligence (AAAI), 2024**
 
 [**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
-
+<div>
 
 <div>
 <div class="badge">AAAI 2024</div>
@@ -103,7 +104,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 **AAAI Conference on Artificial Intelligence (AAAI), 2024**
 
 [**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
-
+<div>
 
 
 

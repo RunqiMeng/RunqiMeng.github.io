@@ -30,7 +30,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 - *[06/2025]*: One paper accepted by MICCAI.
 - *[06/2025]*: Three papers accepted by SNMMI.
 - *[04/2025]*: One paper accepted by IEEE Transactions on Biomedical Engineering (IEEE TBME).
-- *[09/2025]*: Visiting Massachusetts General Hospital and Harvard Medical School.
+- *[09/2024]*: Visited Massachusetts General Hospital and Harvard Medical School.
 - *[06/2024]*: Two papers accepted by MICCAI.
 - *[05/2024]*: One paper accepted by ISMRM.
 - *[03/2024]*: One paper accepted by AAAI.
@@ -48,7 +48,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 <div>
 <div class="badge">AAAI 2024</div>
 <img src='images/nama.png' alt="NaMA: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images" width="100%"></div></div><div class='paper-box-text' markdown="1">
-[NaMA: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
+[NaMa: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
   
 **Runqi Meng**, Xiao Zhang, Shijie Huang, Yuning Gu, Nizhuan Wang, Kaicong Sun, Dinggang Shen
   

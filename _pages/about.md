@@ -32,6 +32,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 - *2025.04*: One paper accepted by IEEE TBME.
 - *2025.09*: I am visiting Massachusetts General Hospital and Harvard Medical School.
 - *2024.06*: Two papers accepted by MICCAI.
+- *2024.05*: One paper accepted by ISMRM.
 - *2024.03*: One paper accepted by AAAI.
 - *2024.01*: One paper accepted by IEEE TMI.
 - *2023.04*: One paper accepted by IEEE ISBI.

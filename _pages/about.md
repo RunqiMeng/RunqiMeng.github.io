@@ -58,6 +58,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 
 
 
+
 <div>
 <div class="badge">MICCAI 2025</div>
 <img src='./images/mastpro.jpg' alt="MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts" width="100%"></div></div><div class='paper-box-text' markdown="1">
@@ -81,13 +82,16 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *[09/2021] – Present*: Ph.D. in Computer Science and Biomedical Engineering, ShanghaiTech University, Shanghai, China.  
+- *[09/2017] – [06/2021]*: B.Eng. in Electronic Information Science and Technology, Central South University, Changsha, China.
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *[09/2024] – [09/2025]*: Ph.D. in Computer Science and Biomedical Engineering, ShanghaiTech University, Shanghai, China.  
+- *[09/2024] – [06/2021]*: B.Eng. in Electronic Information Science and Technology, Central South University, Changsha, China.
+

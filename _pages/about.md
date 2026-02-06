@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Runqi Meng's Homepage
+# Personal Introduction
 
 I am currently a PhD student in **Computer Science** at the Department of Biomedical Engineering, **ShanghaiTech University**, advised by **Prof. Dinggang Shen**. I received my B.Eng. degree in Electronic Information Science and Technology from the College of Physics and Electronics, **Central South University**, China, in 2021. From September 2024 to August 2025, I was a visiting researcher at **Massachusetts General Hospital** and **Harvard Medical School**, supervised by **Prof. Quanzheng Li**. Prior to that, from June 2024 to August 2024, I worked as a research intern at **United Imaging Intelligence Co., Ltd. (UII)**.
 
@@ -41,14 +41,14 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 - *[06/2021]*: Obtained B.Eng. degree from Central South University.
 
 
-# 📝 Selected Publications | ^ (co-first author)
+# 📝 Selected Publications | ^Co-first Author
 
 
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
 <div class="badge">Radiology: Imaging Cancer</div>
-<img src='./images/radiology.jpg' alt="Predicting Recurrence in Locally Advanced Rectal Cancer using Multi-task Deep Learning and Multimodal MRI" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='_pages/images/radiology.jpg' alt="Predicting Recurrence in Locally Advanced Rectal Cancer using Multi-task Deep Learning and Multimodal MRI" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [Predicting Recurrence in Locally Advanced Rectal Cancer using Multi-task Deep Learning and Multimodal MRI](https://pmc.ncbi.nlm.nih.gov/articles/PMC12130701/pdf/rycan.240359.pdf)
   
 Zonglin Liu^, **Runqi Meng^**, Qiong Ma, Yiqun Sun, Yanfen Cui, Xiaoyan Zhang, Tong Tong, Dinggang Shen
@@ -65,7 +65,7 @@ Zonglin Liu^, **Runqi Meng^**, Qiong Ma, Yiqun Sun, Yanfen Cui, Xiaoyan Zhang, T
 <div class='paper-box-image'>
 <div>
 <div class="badge">TBME 2025</div>
-<img src='./images/TBME.jpg' alt="A Neighbor-sensitive Multi-modal Flexible Learning Framework for Improved Prostate Tumor Segmentation in Anisotropic MR Images" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='_pages/images/TBME.jpg' alt="A Neighbor-sensitive Multi-modal Flexible Learning Framework for Improved Prostate Tumor Segmentation in Anisotropic MR Images" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [A Neighbor-sensitive Multi-modal Flexible Learning Framework for Improved Prostate Tumor Segmentation in Anisotropic MR Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10971210)
   
 **Runqi Meng**, Jingli Chen, Kaicong Sun, Qianqian Chen, Xiao Zhang, Ling Dai, Yuning Gu, Guangyu Wu, Dinggang Shen
@@ -82,7 +82,7 @@ Zonglin Liu^, **Runqi Meng^**, Qiong Ma, Yiqun Sun, Yanfen Cui, Xiaoyan Zhang, T
 <div class='paper-box-image'>
 <div>
 <div class="badge">MICCAI 2025</div>
-<img src='./images/mastpro.jpg' alt="MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='_pages/images/mastpro.jpg' alt="MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts](https://papers.miccai.org/miccai-2025/paper/0362_paper.pdf)
   
 **Runqi Meng**, Sifan Song, Pengfei Jin, Lin Teng, Yujin Oh, Yulin Wang, Yiqun Sun, Ling Chen, Xiang Li, Quanzheng Li, Ning Guo, Dinggang Shen
@@ -99,7 +99,7 @@ Zonglin Liu^, **Runqi Meng^**, Qiong Ma, Yiqun Sun, Yanfen Cui, Xiaoyan Zhang, T
 <div class='paper-box-image'>
 <div>
 <div class="badge">AAAI 2024</div>
-<img src='./images/nama.jpg' alt="NaMa: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='_pages/images/nama.jpg' alt="NaMa: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [NaMa: Neighbor-Aware Multi-Modal Adaptive Learning for Prostate Tumor Segmentation on Anisotropic MR Images](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
   
 **Runqi Meng**, Xiao Zhang, Shijie Huang, Yuning Gu, Nizhuan Wang, Kaicong Sun, Dinggang Shen
@@ -117,7 +117,7 @@ Zonglin Liu^, **Runqi Meng^**, Qiong Ma, Yiqun Sun, Yanfen Cui, Xiaoyan Zhang, T
 <div class='paper-box-image'>
 <div>
 <div class="badge">BMC Medical Informatics and Decision Making, 2025</div>
-<img src='./images/bmc.jpg' alt="Multitask Deep Learning Model based on Multimodal Data for Predicting Prognosis of Rectal Cancer: A Multicenter Retrospective Study" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='_pages/images/bmc.jpg' alt="Multitask Deep Learning Model based on Multimodal Data for Predicting Prognosis of Rectal Cancer: A Multicenter Retrospective Study" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [Multitask Deep Learning Model based on Multimodal Data for Predicting Prognosis of Rectal Cancer: A Multicenter Retrospective Study](https://papers.miccai.org/miccai-2025/paper/0362_paper.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC12143085/)
   
 Qiong Ma^, **Runqi Meng^**, Ruiting Li, Ling Dai, Fu Shen, Jie Yuan, Danqi Sun, Manman Li, Caixia Fu, Rong Li, Feng Feng, Yonggang Li, Tong Tong, Yajia Gu, Yiqun Sun, Dinggang Shen
@@ -135,7 +135,7 @@ Qiong Ma^, **Runqi Meng^**, Ruiting Li, Ling Dai, Fu Shen, Jie Yuan, Danqi Sun, 
 <div class='paper-box-image'>
 <div>
 <div class="badge">ISBI 2023</div>
-<img src='./images/isbi.jpg' alt="Location-Guided Multi-Modality Collaborative Learning for Prostate Tumor Segmentation" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='_pages/images/isbi.jpg' alt="Location-Guided Multi-Modality Collaborative Learning for Prostate Tumor Segmentation" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [Location-Guided Multi-Modality Collaborative Learning for Prostate Tumor Segmentation](https://ieeexplore.ieee.org/abstract/document/10230556)
   
 **Runqi Meng**, Xiao Zhang, Shijie Huang, Yuning Gu, Guangyu Wu, Guiqin Liu, Dinggang Shen

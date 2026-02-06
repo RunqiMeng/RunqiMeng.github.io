@@ -61,7 +61,7 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 
 <div>
 <div class="badge">MICCAI 2025</div>
-<img src='./images/mastpro.jpg' alt="MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='_pages/images/mastpro.jpg' alt="MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts](https://papers.miccai.org/miccai-2025/paper/0362_paper.pdf)
   
 **Runqi Meng**, Sifan Song, Pengfei Jin, Lin Teng, Yujin Oh, Yulin Wang, Yiqun Sun, Ling Chen, Xiang Li, Quanzheng Li, Ning Guo, Dinggang Shen

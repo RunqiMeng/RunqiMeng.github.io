@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student in Computer Science at the Department of Biomedical Engineering, **ShanghaiTech University**, advised by **Prof. Dinggang Shen**. I received my B.Eng. degree in Electronic Information Science and Technology from the College of Physics and Electronics, **Central South University**, China, in 2021.
-
-I have been a visiting researcher at **Massachusetts General Hospital** and **Harvard Medical School**, supervised by **Prof. Quanzheng Li**. From September 2024 to August 2025, I worked as a research intern at **United Imaging Intelligence Co., Ltd.(UII)**.
+I am currently a PhD student in **Computer Science** at the Department of Biomedical Engineering, **ShanghaiTech University**, advised by **Prof. Dinggang Shen**. I received my B.Eng. degree in Electronic Information Science and Technology from the College of Physics and Electronics, **Central South University**, China, in 2021. From September 2024 to August 2025, I was a visiting researcher at **Massachusetts General Hospital** and **Harvard Medical School**, supervised by **Prof. Quanzheng Li**. Prior to that, from June 2024 to August 2024, I worked as a research intern at **United Imaging Intelligence Co., Ltd. (UII)**.
 
 My research focuses on medical artificial intelligence, particularly **vision-language models**, **multi-modal learning**, and **foundation models** for medical image analysis. My current work focuses on **tumor segmentation**, **pan-cancer modeling**, and building **generalizable AI systems** that integrate imaging and clinical data for diagnosis and prognosis.
 

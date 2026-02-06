@@ -18,15 +18,24 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # Runqi Meng's Homepage
 
-I am currently a PhD student in **Computer Science** at the Department of Biomedical Engineering, **ShanghaiTech University (上海科技大学)**, advised by **Prof. Dinggang Shen**. I received my B.Eng. degree in Electronic Information Science and Technology from the College of Physics and Electronics, **Central South University (中南大学)**, China, in 2021. From September 2024 to August 2025, I was a visiting researcher at **Massachusetts General Hospital (麻省总医院)** and **Harvard Medical School (哈佛医学院)**, supervised by **Prof. Quanzheng Li**. Prior to that, from June 2024 to August 2024, I worked as a research intern at **United Imaging Intelligence Co., Ltd. (UII) (联影智能有限公司)**.
+I am currently a PhD student in **Computer Science** at the Department of Biomedical Engineering, **ShanghaiTech University**, advised by **Prof. Dinggang Shen**. I received my B.Eng. degree in Electronic Information Science and Technology from the College of Physics and Electronics, **Central South University**, China, in 2021. From September 2024 to August 2025, I was a visiting researcher at **Massachusetts General Hospital** and **Harvard Medical School**, supervised by **Prof. Quanzheng Li**. Prior to that, from June 2024 to August 2024, I worked as a research intern at **United Imaging Intelligence Co., Ltd. (UII)**.
 
 My research focuses on medical artificial intelligence, particularly **vision-language models**, **multi-modal learning**, and **foundation models** for medical image analysis. My current work focuses on **tumor segmentation**, **pan-cancer modeling**, and building **generalizable AI systems** that integrate imaging and clinical data for diagnosis and prognosis.
 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: One paper accepted by Radiology: Cancer Imaging.
+- *2025.06*: One paper accepted by BMC Medical Informatics and Decision Making.
+- *2025.06*: One paper accepted by MICCAI.
+- *2025.06*: Three papers accepted by SNMMI.
+- *2025.04*: One paper accepted by IEEE TBME.
+- *2025.09*: I am visiting Massachusetts General Hospital and Harvard Medical School.
+- *2024.06*: Two papers accepted by MICCAI.
+- *2024.03*: One paper accepted by AAAI.
+- *2024.01*: One paper accepted by IEEE TMI.
+- *2023.04*: One paper accepted by IEEE ISBI.
+- *2021.11*: One paper accepted by Nature Communications.
 
 # 📝 Publications 
 

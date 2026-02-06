@@ -118,7 +118,7 @@ Zonglin Liu^, **Runqi Meng^**, Qiong Ma, Yiqun Sun, Yanfen Cui, Xiaoyan Zhang, T
 <div>
 <div class="badge">BMC Medical Informatics and Decision Making, 2025</div>
 <img src='_pages/images/bmc.jpg' alt="Multitask Deep Learning Model based on Multimodal Data for Predicting Prognosis of Rectal Cancer: A Multicenter Retrospective Study" width="100%"></div></div><div class='paper-box-text' markdown="1">
-[Multitask Deep Learning Model based on Multimodal Data for Predicting Prognosis of Rectal Cancer: A Multicenter Retrospective Study](https://papers.miccai.org/miccai-2025/paper/0362_paper.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC12143085/)
+[Multitask Deep Learning Model based on Multimodal Data for Predicting Prognosis of Rectal Cancer: A Multicenter Retrospective Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12143085/)
   
 Qiong Ma^, **Runqi Meng^**, Ruiting Li, Ling Dai, Fu Shen, Jie Yuan, Danqi Sun, Manman Li, Caixia Fu, Rong Li, Feng Feng, Yonggang Li, Tong Tong, Yajia Gu, Yiqun Sun, Dinggang Shen
   

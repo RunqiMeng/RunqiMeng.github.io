@@ -117,7 +117,7 @@ Zonglin Liu^, **Runqi Meng^**, Qiong Ma, Yiqun Sun, Yanfen Cui, Xiaoyan Zhang, T
 <div class='paper-box-image'>
 <div>
 <div class="badge">BMC Medical Informatics and Decision Making, 2025</div>
-<img src='./images/isbi.jpg' alt="Multitask Deep Learning Model based on Multimodal Data for Predicting Prognosis of Rectal Cancer: A Multicenter Retrospective Study" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='./images/bmc.jpg' alt="Multitask Deep Learning Model based on Multimodal Data for Predicting Prognosis of Rectal Cancer: A Multicenter Retrospective Study" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [Multitask Deep Learning Model based on Multimodal Data for Predicting Prognosis of Rectal Cancer: A Multicenter Retrospective Study](https://papers.miccai.org/miccai-2025/paper/0362_paper.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC12143085/)
   
 Qiong Ma^, **Runqi Meng^**, Ruiting Li, Ling Dai, Fu Shen, Jie Yuan, Danqi Sun, Manman Li, Caixia Fu, Rong Li, Feng Feng, Yonggang Li, Tong Tong, Yajia Gu, Yiqun Sun, Dinggang Shen
@@ -135,7 +135,7 @@ Qiong Ma^, **Runqi Meng^**, Ruiting Li, Ling Dai, Fu Shen, Jie Yuan, Danqi Sun, 
 <div class='paper-box-image'>
 <div>
 <div class="badge">ISBI 2023</div>
-<img src='./images/nama.jpg' alt="Location-Guided Multi-Modality Collaborative Learning for Prostate Tumor Segmentation" width="100%"></div></div><div class='paper-box-text' markdown="1">
+<img src='./images/isbi.jpg' alt="Location-Guided Multi-Modality Collaborative Learning for Prostate Tumor Segmentation" width="100%"></div></div><div class='paper-box-text' markdown="1">
 [Location-Guided Multi-Modality Collaborative Learning for Prostate Tumor Segmentation](https://ieeexplore.ieee.org/abstract/document/10230556)
   
 **Runqi Meng**, Xiao Zhang, Shijie Huang, Yuning Gu, Guangyu Wu, Guiqin Liu, Dinggang Shen

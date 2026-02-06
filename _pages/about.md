@@ -55,10 +55,13 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 **AAAI, 2024**
 
 [**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/28215)
+</div>
+</div>
 
 
 
-
+<div class='paper-box'>
+<div class='paper-box-image'>
 <div>
 <div class="badge">MICCAI 2025</div>
 <img src='_pages/images/mastpro.jpg' alt="MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts" width="100%"></div></div><div class='paper-box-text' markdown="1">
@@ -69,12 +72,12 @@ My research focuses on medical artificial intelligence, particularly **vision-la
 **MICCAI, 2025**
 
 [**[Paper]**](https://papers.miccai.org/miccai-2025/paper/0362_paper.pdf)
-
+</div>
+</div>
 
 
   
-</div>
-</div>
+
 
 
 

@@ -155,7 +155,7 @@ Qiong Ma^, **Runqi Meng^**, Ruiting Li, Ling Dai, Fu Shen, Jie Yuan, Danqi Sun, 
 
 
 
-# 💼 Experience
+# 💼 Internships
 
 - *[09/2024] – [09/2025]*: Visiting Research Scholar, Massachusetts General Hospital and Harvard Medical School, Boston, MA, USA.
 - *[06/2024] – [08/2024]*: Research Intern, United Imaging Intelligence (UII), Shanghai, China.
